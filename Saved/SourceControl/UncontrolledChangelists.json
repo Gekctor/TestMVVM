@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Projects/TestMVVM/Content/Data/F_DrinkDate.uasset",
+				"C:/Projects/TestMVVM/Content/Data/F_AddonDate.uasset",
+				"C:/Projects/TestMVVM/Content/Data/E_DrinkType.uasset",
+				"C:/Projects/TestMVVM/Content/Data/E_AddonType.uasset",
+				"C:/Projects/TestMVVM/Content/Level/L_Main.umap",
+				"C:/Projects/TestMVVM/Content/Data/DT_Drinks.uasset",
+				"C:/Projects/TestMVVM/Content/Data/DT_Addons.uasset",
+				"C:/Projects/TestMVVM/Content/UI/BP_OrderViewModel.uasset",
+				"C:/Projects/TestMVVM/Content/UI/Widgets/WBP_DrinkItem.uasset",
+				"C:/Projects/TestMVVM/Content/UI/Widgets/WBP_AddonItem.uasset",
+				"C:/Projects/TestMVVM/Content/UI/Widgets/WBP_MainMenu.uasset",
+				"C:/Projects/TestMVVM/Content/UI/Widgets/WBP_OrderMenu.uasset",
+				"C:/Projects/TestMVVM/Content/UI/Widgets/WBP_Confirmation.uasset"
+			]
+		}
+	]
+}
